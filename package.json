@@ -1,0 +1,15 @@
+{
+    "name": "@tr1ge4you/cades-plugin-adapter",
+    "version": "0.1.0",
+    "description": "Простая обертка для работы с CAdES Browser plugin и Крпито про",
+    "license": "ISC",
+    "author": "Tr1gEr",
+    "type": "commonjs",
+    "main": "index.js",
+    "files": [
+        "dist"
+    ],
+    "dependencies": {
+        "typescript": "^7.0.2"
+    }
+}
